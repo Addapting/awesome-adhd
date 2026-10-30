@@ -23,6 +23,10 @@ Computer software and smartphone apps useful for managing life with ADHD
 
 - Productive Timer [[Github Project](https://github.com/ellenjones/productive-timer), [Live Website](https://addapting.com/timer/)]
 
+### Mobile
+
+- [Ripple](https://ripplefocus.github.io/) - Free Android and iOS 16+ screen-time / Shorts and Reels blocker with parent unlock and uninstall lock. Local, no ads.
+
 
 ## Contribute
 
